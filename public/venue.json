@@ -1,0 +1,106 @@
+[
+    {
+        "id": 0,
+        "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2019/10/17/79de518c-27b5-4b26-be4e-94977cecc511/GettyImages-902860818.jpg?width=288&height=288",
+        "address": [
+            {
+                "addressId": 0,
+                "city": "Adelaide/Tarndanya",
+                "venue": "Adelaide Oval"
+            }
+        ],
+        "about": "Adelaide Oval is the proud centrepiece of this cosmopolitan city. It's a venue steeped in sporting, arts and cultural history - one loved both for its heritage and modern features.",
+        "link": "https://www.t20worldcup.com/venues/42/adelaide-oval/venue"
+    },
+    {
+        "id": 1,
+        "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2019/10/17/4f233646-cc76-4cf1-b753-4cefe146af87/GettyImages-107136786.jpg?width=288&height=288",
+        "address": [
+            {
+                "addressId": 0,
+                "city": "Brisbane/Meanjin",
+                "venue": "The Gabba"
+            }
+        ],
+        "about": "The Gabba has been the home of cricket in Queensland since 1896 and is well known throughout the cricketing world for hosting all forms of international cricket, as well as Sheffield Shield matches.",
+        "link": "https://www.t20worldcup.com/venues/394/the-gabba/venue"
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2020/02/07/a3bd8d53-db58-47af-8a7f-2e97974f208c/_GHMBA_BBL17.jpg?width=288&height=288",
+        "address": [
+            {
+                "addressId": 0,
+                "city": "Geelong/Djilang",
+                "venue": "Kardinia Park"
+            }
+        ],
+        "about": "Kardinia Park Stadium is one of Victoria's most impressive stadiums and recent redevelopment of the venue has allowed it to evolve into one of Australia's leading regional venues and a first-class cricket facility.",
+        "link": "https://www.t20worldcup.com/venues/356/kardinia-park/venue"
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2020/02/07/7492bb03-6c0f-42ee-a549-17da7ddaf977/Bellerive-Oval-1.jpg?width=288&height=288",
+        "address": [
+            {
+                "addressId": 0,
+                "city": "Hobart/Nipaluna",
+                "venue": "Bellerive Oval"
+            }
+        ],
+        "about": "Sydney has Balmain, Melbourne has Williamstown, Perth has Fremantle…and Hobart has Bellerive, an historic harbourside hub that's home to Bellerive Oval. On the sunny eastern shore of the River Derwent, the ground is a 10-minute drive or ferry ride from central Hobart's buzzy waterfront.",
+        "link": "https://www.t20worldcup.com/venues/395/bellerive-oval/venue"
+    },
+    {
+        "id": 4,
+        "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2019/10/17/5a210638-00ff-46f2-b434-eb1aa1a566c0/GettyImages-459354757.jpg?width=288&height=288",
+        "address": [
+            {
+                "addressId": 0,
+                "city": "Melbourne/Naarm",
+                "venue": "MCG"
+            }
+        ],
+        "about": "Built in 1853, the Melbourne Cricket Ground (MCG) is the largest stadium in the Southern Hemisphere and 10th biggest in the world boasting a capacity of over 100,000 people.",
+        "link": "https://www.t20worldcup.com/venues/51/mcg/venue"
+    },
+    {
+        "id": 5,
+        "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2019/10/17/bdaa25e7-81a7-4fec-b575-8b17eb2e5da4/GettyImages-911265544.jpg?width=288&height=288",
+        "address": [
+            {
+                "addressId": 0,
+                "city": "Perth/Boorloo",
+                "venue": "Perth Stadium"
+            }
+        ],
+        "about": "Perth Stadium and the surrounding park is located east of the Perth CBD, on the Burswood Peninsula. With views of the picturesque Swan River and Perth city in the west and the foothills in the east, this 60,000-seat, world-class, multi-purpose stadium hosts a variety of sports and entertainment events including Australian Football League, international and Big Bash League cricket, soccer, rugby league and union plus concerts.",
+        "link": "https://www.t20worldcup.com/venues/458/perth-stadium/venue"
+    },
+    {
+        "id": 6,
+        "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2020/02/10/c50eab69-843a-4f0c-8889-88c6123a228e/SCG-3.jpg?width=288&height=288",
+        "address": [
+            {
+                "addressId": 0,
+                "city": "Sydney/Warrang",
+                "venue": "SCG"
+            }
+        ],
+        "about": "Steeped in sporting history, the SCG has been providing a wealth of entertainment for over 150 years. Almost every famous Australian cricketer has competed within the historic grounds, which is considered among the country's architectural treasures.",
+        "link": "https://www.t20worldcup.com/venues/48/scg/venue"
+    },
+    {
+        "id": 7,
+        "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2019/10/17/4f233646-cc76-4cf1-b753-4cefe146af87/GettyImages-107136786.jpg?width=288&height=288",
+        "address": [
+            {
+                "addressId": 0,
+                "city": "Brisbane/Meanjin",
+                "venue": "The Gabba"
+            }
+        ],
+        "about": "The Gabba has been the home of cricket in Queensland since 1896 and is well known throughout the cricketing world for hosting all forms of international cricket, as well as Sheffield Shield matches.",
+        "link": "https://www.t20worldcup.com/venues/394/the-gabba/venue"
+    }
+]

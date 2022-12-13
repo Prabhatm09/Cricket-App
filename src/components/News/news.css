@@ -1,0 +1,49 @@
+.newscontainer .cricket_div {
+    display: flex;
+    width: 70vw;
+    margin: 40px auto;
+    text-align: justify;
+    border-bottom: 2px solid black;
+}
+
+.newscontainer .cricket_div .cricket_img_div img {
+    width: 500px;
+    height: 300px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.newscontainer .cricket_div .cricket_content_div h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: grey;
+}
+
+.newscontainer .cricket_div .cricket_content_div p {
+    font-size: 17px;
+    margin-bottom: 110px;
+    color: gray;
+}
+
+.newscontainer .cricket_div .cricket_content_div span .read_more_btn {
+    border: none;
+    background-color: transparent;
+}
+
+.newscontainer {
+    margin-top: 50px;
+}
+
+body {
+    background-color: #141A2D;
+}
+
+.venue-Heading {
+    margin-left: 20px;
+    margin-top: 30px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: white;
+}

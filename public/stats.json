@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "highScore": 109,
+        "name": "Rilee Rossouw",
+        "imgUrl": "https://resources.pulse.icc-cricket.com/players/33992/284/239.png",
+        "details": "https://www.t20worldcup.com/teams/19/south-africa/players/239",
+        "country": "RSA"
+    },
+    {
+        "id": 1,
+        "highScore": 296,
+        "name": "Virat Kohli",
+        "imgUrl": "https://resources.pulse.icc-cricket.com/players/33992/284/164.png",
+        "details": "https://www.t20worldcup.com/teams/14/india/players/164",
+        "country": "Ind"
+    },
+    {
+        "id": 2,
+        "highScore": 15,
+        "name": "Wanindu Hasaranga",
+        "imgUrl": "https://resources.pulse.icc-cricket.com/players/33992/284/3082.png",
+        "details": "https://www.t20worldcup.com/teams/13/sri-lanka/players/3082",
+        "country": "SL"
+    }
+]

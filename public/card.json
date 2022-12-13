@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "imgF": "https://www.cricbuzz.com/a/img/v1/24x18/i1/c225641/chennai-super-kings.jpg",
+        "nameF": "CSK",
+        "imgL": "https://www.cricbuzz.com/a/img/v1/24x18/i1/c225646/kolkata-knight-riders.jpg",
+        "nameL": "KKR",
+        "matchNo": "1st Match",
+        "date": "Mar 26, Sat",
+        "time": "7:30 PM",
+        "stadium": "Wankhede Stadium, Mumbai",
+        "joinLink": "https://www.cricbuzz.com/cricket-scores/45886/csk-vs-kkr-1st-match-indian-premier-league-2022"
+    },
+    {
+        "id": 1,
+        "imgF": "https://www.cricbuzz.com/a/img/v1/24x18/i1/c225644/delhi-capitals.jpg",
+        "nameF": "DC",
+        "imgL": "https://www.cricbuzz.com/a/img/v1/24x18/i1/c225645/mumbai-indians.jpg",
+        "nameL": "MI",
+        "matchNo": "2nd Match",
+        "date": "Mar 27, Sun",
+        "time": "3:30 PM",
+        "stadium": "Brabourne Stadium, Mumbai",
+        "joinLink": "https://www.cricbuzz.com/cricket-scores/45891/dc-vs-mi-2nd-match-indian-premier-league-2022"
+    },
+    {
+        "id": 2,
+        "imgF": "https://www.cricbuzz.com/a/img/v1/24x18/i1/c225648/punjab-kings.jpg",
+        "nameF": "PBKS",
+        "imgL": "https://www.cricbuzz.com/a/img/v1/24x18/i1/c225643/royal-challengers-bangalore.jpg",
+        "nameL": "RCB",
+        "matchNo": "3rd Match",
+        "date": "Mar 27, Sun",
+        "time": "7:30 PM",
+        "stadium": "Dr DY Patil Sports Academy, Mumbai",
+        "joinLink": "https://www.cricbuzz.com/cricket-scores/45896/pbks-vs-rcb-3rd-match-indian-premier-league-2022"
+    },
+    {
+        "id": 3,
+        "imgF": "https://www.cricbuzz.com/a/img/v1/24x18/i1/c235085/gujarat-titans.jpg",
+        "nameF": "GT",
+        "imgL": "https://www.cricbuzz.com/a/img/v1/24x18/i1/c228727/lucknow-super-giants.jpg",
+        "nameL": "LSG",
+        "matchNo": "4th Match",
+        "date": "Mar 28, Mon",
+        "time": "7:30 PM",
+        "stadium": "Wankhede Stadium, Mumbai",
+        "joinLink": "https://www.cricbuzz.com/cricket-scores/45901/gt-vs-lsg-4th-match-indian-premier-league-2022"
+    }
+]

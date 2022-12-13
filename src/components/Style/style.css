@@ -1,0 +1,81 @@
+.MuiPaper-elevation {
+    background-color: var(--component-bg-clr) !important;
+}
+
+body {
+    background-color: var(--bg-clr);
+}
+
+.container .contact_div span {
+    color: var(--contactus-clr);
+}
+
+.container .contact_div h1 {
+    color: var(--contactus-clr);
+}
+
+ul li a {
+    text-decoration: none;
+    color: var(--link-clr);
+}
+
+.active {
+    color: var(--active-link-clr);
+}
+
+.MuiTableRow-head th {
+    color: var(--table-th-clr);
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.MuiTableRow-root td {
+    color: var(--table-td-clr);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.MuiTableRow-root:nth-child(even) {
+    background-color: var(--table-bg-clr);
+}
+
+.MuiTableRow-root:hover {
+    background-color: var(--table-td-hover-clr);
+}
+
+.nav-links .MuiButton-text {
+    color: var(--theme-icon-clr);
+}
+
+.venue-Heading {
+    color: var(--venue-heading-clr);
+}
+
+.light-mode {
+    --bg-clr: rgb(247, 247, 247);
+    --component-bg-clr: white;
+    --contactus-clr: black;
+    --link-clr: lightslategray;
+    --active-link-clr: lightcoral;
+    --theme-icon-clr: rgb(35, 35, 33);
+    --table-bg-clr: rgb(248, 245, 245);
+    --table-th-clr: rgb(81, 82, 81);
+    --table-td-clr: lightslategray;
+    --table-td-hover-clr: rgb(238, 240, 178);
+    --venue-heading-clr: rgb(81, 82, 81);
+}
+
+.dark-mode {
+    --bg-clr: #141A2D;
+    --component-bg-clr: #252C40;
+    --contactus-clr: white;
+    --link-clr: lightgreen;
+    --active-link-clr: aqua;
+    --theme-icon-clr: white;
+    --table-bg-clr: black;
+    --table-th-clr: rgb(252, 117, 68);
+    --table-td-clr: white;
+    --table-td-hover-clr: darkslategrey;
+    --venue-heading-clr: #EE2364;
+}

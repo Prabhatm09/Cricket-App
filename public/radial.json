@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "value": 125,
+        "color": "#0088FE"
+    },
+    {
+        "id": 1,
+        "value": 125,
+        "color": "#00C49F"
+    },
+    {
+        "id": 2,
+        "value": 125,
+        "color": "#FFBB28"
+    },
+    {
+        "id": 3,
+        "value": 125,
+        "color": "#FF8042"
+    },
+    {
+        "id": 4,
+        "value": 125,
+        "color": "#0088FE"
+    },
+    {
+        "id": 5,
+        "value": 125,
+        "color": "#00C49F"
+    },
+    {
+        "id": 6,
+        "value": 125,
+        "color": "#FFBB28"
+    },
+    {
+        "id": 7,
+        "value": 125,
+        "color": "#FF8042"
+    }
+]

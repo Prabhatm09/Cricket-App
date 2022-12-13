@@ -1,0 +1,68 @@
+.player-image {
+    height: 154px;
+    position: absolute;
+    top: 383px;
+    left: 903px;
+}
+
+
+span {
+    position: absolute;
+    z-index: 1;
+}
+
+.run-percent-1 {
+    bottom: 218px;
+    left: 1028px;
+    color: #00C49F;
+    font-size: 1.2rem;
+}
+
+.run-percent-2 {
+    bottom: 217px;
+    left: 914px;
+    color: #FFBB28;
+    font-size: 1.2rem;
+}
+
+.run-percent-3 {
+    bottom: 135px;
+    left: 821px;
+    color: #8884D8;
+    font-size: 1.2rem;
+}
+
+.run-percent-4 {
+    top: 504px;
+    left: 810px;
+    color: #FF8042;
+    font-size: 1.2rem;
+}
+
+.run-percent-5 {
+    bottom: 23px;
+    left: 1113px;
+    color: #82CA9D;
+    font-size: 1.2rem;
+}
+
+.run-percent-6 {
+    bottom: 132px;
+    left: 1112px;
+    color: #0088FE;
+    font-size: 1.2rem;
+}
+
+.run-percent-7 {
+    bottom: -68px;
+    left: 907px;
+    color: #00C49F;
+    font-size: 1.2rem;
+}
+
+.run-percent-8 {
+    bottom: -66px;
+    left: 1028px;
+    color: #0088FE;
+    font-size: 1.2rem;
+}
