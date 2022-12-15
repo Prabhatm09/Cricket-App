@@ -37,6 +37,7 @@
 
 .flex .venueImg {
     margin: 10px auto;
+    padding: 5px;
     height: 230px;
     width: 335px;
 }

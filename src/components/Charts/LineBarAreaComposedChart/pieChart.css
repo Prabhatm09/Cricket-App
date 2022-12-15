@@ -1,6 +1,11 @@
 .player-img {
-    height: 154px;
+    height: 156px;
+    left: 975px;
+    position: absolute;
+    top: 382px;
+
+    /* height: 154px;
     position: absolute;
     top: 264px;
-    left: 903px;
+    left: 903px; */
 }

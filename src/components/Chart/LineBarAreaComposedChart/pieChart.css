@@ -1,8 +1,9 @@
 .player-image {
-    height: 154px;
+    height: 156px;
+    left: 975px;
     position: absolute;
-    top: 383px;
-    left: 903px;
+    top: 382px;
+
 }
 
 
@@ -13,56 +14,56 @@ span {
 
 .run-percent-1 {
     bottom: 353px;
-    left: 188px;
+    left: 166px;
     color: #00C49F;
     font-size: 1.2rem;
 }
 
 .run-percent-2 {
     bottom: 356px;
-    left: 55px;
+    left: 26px;
     color: #FFBB28;
     font-size: 1.2rem;
 }
 
 .run-percent-3 {
     bottom: 271px;
-    right: 64px;
+    right: 90px;
     color: #8884D8;
     font-size: 1.2rem;
 }
 
 .run-percent-4 {
     bottom: 158px;
-    left: -99px;
+    right: 125px;
     color: #FF8042;
     font-size: 1.2rem;
 }
 
 .run-percent-5 {
     bottom: 69px;
-    right: 38px;
+    right: 61px;
     color: #82CA9D;
     font-size: 1.2rem;
 }
 
 .run-percent-6 {
     bottom: 70px;
-    left: 38px;
+    left: 17px;
     color: #0088FE;
     font-size: 1.2rem;
 }
 
 .run-percent-7 {
     bottom: 160px;
-    left: 92px;
+    left: 66px;
     color: #00C49F;
     font-size: 1.2rem;
 }
 
 .run-percent-8 {
     bottom: 269px;
-    left: 55px;
+    left: 29px;
     color: #0088FE;
     font-size: 1.2rem;
 }
