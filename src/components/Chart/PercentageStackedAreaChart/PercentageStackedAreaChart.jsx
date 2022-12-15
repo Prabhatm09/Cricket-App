@@ -47,7 +47,7 @@ export function PercentageStackedAreaChart() {
             data={player}
             margin={{
                 top: 10,
-                right: 50,
+                right: 70,
                 left: 0,
                 bottom: 0,
             }}

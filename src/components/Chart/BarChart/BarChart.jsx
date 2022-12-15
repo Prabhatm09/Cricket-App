@@ -8,6 +8,7 @@ import {
     CartesianGrid,
     Tooltip,
     Legend,
+    ResponsiveContainer
 } from "recharts";
 
 import "../LineBarAreaComposedChart/pieChart.css";
@@ -35,7 +36,7 @@ export function BarCharts() {
 
     return (
         <>
-            {/* <p>wickets</p> */}
+
             <BarChart
                 width={600}
                 height={400}
@@ -52,9 +53,10 @@ export function BarCharts() {
                 <YAxis />
                 <Tooltip />
                 <Legend />
-                <Bar dataKey="matchesPlayed" stackId="a" fill="#8884d8" sx={{ padding: "100px" }} />
+                <Bar dataKey="matchesPlayed" stackId="a" fill="#8884d8" />
                 <Bar dataKey="matchesWon" stackId="a" fill="#82ca9d" />
             </BarChart>
+
         </>
     );
 }

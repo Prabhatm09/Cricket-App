@@ -47,14 +47,14 @@ export function LineBarAreaComposedChart() {
                     ))}
                 </Pie>
             </PieChart>
-            <span className='run-percent-1'>3%</span>
-            <span className='run-percent-2'>8%</span>
-            <span className='run-percent-3'>5%</span>
-            <span className='run-percent-4'>17%</span>
-            <span className='run-percent-5'>22%</span>
-            <span className='run-percent-6'>16%</span>
-            <span className='run-percent-7'>17%</span>
-            <span className='run-percent-8'>12%</span>
+            <span className='run-percent-1 spanpercent'>3%</span>
+            <span className='run-percent-2 spanpercent'>8%</span>
+            <span className='run-percent-3 spanpercent'>5%</span>
+            <span className='run-percent-4 spanpercent'>17%</span>
+            <span className='run-percent-5 spanpercent'>22%</span>
+            <span className='run-percent-6 spanpercent'>16%</span>
+            <span className='run-percent-7 spanpercent'>17%</span>
+            <span className='run-percent-8 spanpercent'>12%</span>
         </>
     );
 }
